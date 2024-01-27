@@ -71,7 +71,11 @@ ul li h3 {
     padding-top: 12px;
     padding-bottom: 12px;
 }
- 
+
+ul li p {
+    font-size: small;
+}
+
 /* links */
   ul {
     list-style:none;
